@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #fffefe;
+    float: left;
+    margin-left: 60px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.login-form {
+    width: 400px;
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 0px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+}
+
+input[type="email"],
+input[type="password"] {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+button {
+    width: 60%;
+    padding: 10px;
+    background-color: rgb(43, 61, 226);
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.P {
+    color: rgb(43, 61, 226);
+}
+
+.slidebar {
+    position: fixed;
+    right: 5px;
+    bottom: 10px;
+    top: 5px;
+    background-color: rgb(255, 255, 255);
+    width: 50%;
+    z-index: 200;
+    padding-top: 5px;
+}
+.slidebar-img  img {
+    border-radius: 10%;
+    width: 95%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 10px;
+    
+}
+
+.debut {
+    position: fixed;
+    left: 0;
+    bottom: 10px;
+    top: 0;
+    width: 30%;
+}
+.debut-img img {
+    border-radius: 10px;
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10px;
+}
