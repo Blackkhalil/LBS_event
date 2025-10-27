@@ -4,6 +4,11 @@
 **Status:** Production Ready  
 **Last Updated:** 2024
 
+## 👨‍💻 Développeur
+
+**Développé par :** SIBI Ibrahim Khalil  
+**Établissement :** Ancien étudiant de Lomé Business School (LBS)
+
 ## 📋 Description
 
 LBS Events est une plateforme de gestion d'événements développée pour Lomé Business School. Cette application permet aux administrateurs de créer, gérer et suivre des événements organisés par l'école.
@@ -216,6 +221,14 @@ Pour toute question ou problème, contactez l'équipe de développement.
 ## 📄 Licence
 
 © 2024 Lomé Business School. Tous droits réservés.
+
+## 👨‍💻 Auteur
+
+**SIBI Ibrahim Khalil**  
+Ancien étudiant de Lomé Business School
+
+- 📧 Contact : [Votre email]
+- 🔗 GitHub : [@Blackkhalil](https://github.com/Blackkhalil)
 
 ## 🚀 Améliorations Futures
 
